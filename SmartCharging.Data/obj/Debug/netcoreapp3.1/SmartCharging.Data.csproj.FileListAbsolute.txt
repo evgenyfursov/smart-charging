@@ -1,0 +1,9 @@
+D:\Projects\fe\SmartCharging\SmartCharging\SmartCharging.Data\bin\Debug\netcoreapp3.1\SmartCharging.Data.deps.json
+D:\Projects\fe\SmartCharging\SmartCharging\SmartCharging.Data\bin\Debug\netcoreapp3.1\SmartCharging.Data.dll
+D:\Projects\fe\SmartCharging\SmartCharging\SmartCharging.Data\bin\Debug\netcoreapp3.1\SmartCharging.Data.pdb
+D:\Projects\fe\SmartCharging\SmartCharging\SmartCharging.Data\obj\Debug\netcoreapp3.1\SmartCharging.Data.AssemblyInfoInputs.cache
+D:\Projects\fe\SmartCharging\SmartCharging\SmartCharging.Data\obj\Debug\netcoreapp3.1\SmartCharging.Data.AssemblyInfo.cs
+D:\Projects\fe\SmartCharging\SmartCharging\SmartCharging.Data\obj\Debug\netcoreapp3.1\SmartCharging.Data.csproj.CoreCompileInputs.cache
+D:\Projects\fe\SmartCharging\SmartCharging\SmartCharging.Data\obj\Debug\netcoreapp3.1\SmartCharging.Data.dll
+D:\Projects\fe\SmartCharging\SmartCharging\SmartCharging.Data\obj\Debug\netcoreapp3.1\SmartCharging.Data.pdb
+D:\Projects\fe\SmartCharging\SmartCharging\SmartCharging.Data\obj\Debug\netcoreapp3.1\SmartCharging.Data.csprojAssemblyReference.cache

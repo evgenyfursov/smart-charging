@@ -1,0 +1,14 @@
+D:\Projects\fe\SmartCharging\SmartCharging\SmartCharging.Implementation\obj\Debug\netcoreapp3.1\SmartCharging.Implementation.csprojAssemblyReference.cache
+D:\Projects\fe\SmartCharging\SmartCharging\SmartCharging.Implementation\obj\Debug\netcoreapp3.1\SmartCharging.Implementation.AssemblyInfoInputs.cache
+D:\Projects\fe\SmartCharging\SmartCharging\SmartCharging.Implementation\obj\Debug\netcoreapp3.1\SmartCharging.Implementation.AssemblyInfo.cs
+D:\Projects\fe\SmartCharging\SmartCharging\SmartCharging.Implementation\obj\Debug\netcoreapp3.1\SmartCharging.Implementation.csproj.CoreCompileInputs.cache
+D:\Projects\fe\SmartCharging\SmartCharging\SmartCharging.Implementation\bin\Debug\netcoreapp3.1\SmartCharging.Implementation.deps.json
+D:\Projects\fe\SmartCharging\SmartCharging\SmartCharging.Implementation\bin\Debug\netcoreapp3.1\SmartCharging.Implementation.dll
+D:\Projects\fe\SmartCharging\SmartCharging\SmartCharging.Implementation\bin\Debug\netcoreapp3.1\SmartCharging.Implementation.pdb
+D:\Projects\fe\SmartCharging\SmartCharging\SmartCharging.Implementation\bin\Debug\netcoreapp3.1\SmartCharging.Contract.Services.dll
+D:\Projects\fe\SmartCharging\SmartCharging\SmartCharging.Implementation\bin\Debug\netcoreapp3.1\SmartCharging.Data.dll
+D:\Projects\fe\SmartCharging\SmartCharging\SmartCharging.Implementation\bin\Debug\netcoreapp3.1\SmartCharging.Data.pdb
+D:\Projects\fe\SmartCharging\SmartCharging\SmartCharging.Implementation\bin\Debug\netcoreapp3.1\SmartCharging.Contract.Services.pdb
+D:\Projects\fe\SmartCharging\SmartCharging\SmartCharging.Implementation\obj\Debug\netcoreapp3.1\SmartCharging.Implementation.csproj.CopyComplete
+D:\Projects\fe\SmartCharging\SmartCharging\SmartCharging.Implementation\obj\Debug\netcoreapp3.1\SmartCharging.Implementation.dll
+D:\Projects\fe\SmartCharging\SmartCharging\SmartCharging.Implementation\obj\Debug\netcoreapp3.1\SmartCharging.Implementation.pdb

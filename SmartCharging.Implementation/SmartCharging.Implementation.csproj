@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\SmartCharging.Data\SmartCharging.Data.csproj" />
+    <ProjectReference Include="..\SmartCharging.Services\SmartCharging.Contract.Services.csproj" />
+  </ItemGroup>
+
+</Project>
