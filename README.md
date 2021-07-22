@@ -1,1 +1,1 @@
-# smart-charging
+This is a simple ASP.NET Core API application that does not require some extra operations to run. The database is created in memory. All logic is concentrated in the repositories  since the application consists of basic CRUD operations. For the same reason, unit tests only cover repositories. For full testing I implemented a fake db context. Of course, it would be nice to add general error handling, logging to the application, it is possible moved logic to services, separate the options for writing and reading (CQRS), as an option to use DDD.
